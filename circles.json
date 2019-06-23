@@ -1,7 +1,7 @@
 {"objects":[
-{"circle":{"coordinates":[145.53,-41.77]}},
-{"circle":{"coordinates":[145.31,-42.15]}},
-{"circle":{"coordinates":[146.17,-41.15]}},
-{"circle":{"coordinates":[145.53,-41.44]}},
-{"circle":{"coordinates":[145.33,-41.88]}}
+{"circle":{"coordinates":[-41.77,145.53]}},
+{"circle":{"coordinates":[-42.15,145.31]}},
+{"circle":{"coordinates":[-41.15,146.17]}},
+{"circle":{"coordinates":[-41.44,145.53]}},
+{"circle":{"coordinates":[-41.88,145.33]}}
 ]}
